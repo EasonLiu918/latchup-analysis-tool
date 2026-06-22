@@ -7,7 +7,7 @@ This tool provides a GUI to process latchup Excel data and generate IV plots wit
 
 - Run the GUI:
 
-- double-click:
+double-click:
 - run_app.bat
 
 
