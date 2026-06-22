@@ -6,9 +6,7 @@ This tool provides a GUI to process latchup Excel data and generate IV plots wit
 ## How to Use
 
 Run the GUI:
-
-Shellpython app_gui.pyShow more lines
-or double-click:
+double-click:
 run_app.bat
 
 
@@ -17,12 +15,12 @@ Click Process Excel
 Select node
 Click Plot
 
-Notes
+## Notes
 
 Pins without data will be shown as N/A
 Excel files with format issues may need to be re-saved before use
 
-Author
+## Author
 Eason.HS Liu
 
 ## Features
