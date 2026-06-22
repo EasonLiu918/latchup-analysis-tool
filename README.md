@@ -23,9 +23,6 @@ run_app.bat
 ## Notes
 - Pins without data will be shown as N/A
 - Excel files with format issues may need to be re-saved before use
-  
-## Author
-Eason.HS Liu
 
 ## Features
 
@@ -47,3 +44,6 @@ Eason.HS Liu
 - **Generated IV Plot**
 <img width="1797" height="1001" alt="image" src="https://github.com/user-attachments/assets/e61dbb8a-f00d-438a-af81-0722aa03affc" />
 <img width="1797" height="967" alt="image" src="https://github.com/user-attachments/assets/077601a9-dc25-4e5f-929e-b875a29af4e8" />
+  
+## Author
+Eason.HS Liu
