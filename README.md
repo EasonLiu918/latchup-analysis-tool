@@ -22,3 +22,25 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+
+## How to Use
+
+Run the GUI:
+
+Shellpython app_gui.pyShow more lines
+or double-click:
+run_app.bat
+
+
+Select Excel file
+Click Process Excel
+Select node
+Click Plot
+
+Notes
+
+Pins without data will be shown as N/A
+Excel files with format issues may need to be re-saved before use
+
+Author
+Eason.HS Liu
