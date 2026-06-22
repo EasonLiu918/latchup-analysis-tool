@@ -5,21 +5,21 @@ This tool provides a GUI to process latchup Excel data and generate IV plots wit
 
 ## How to Use
 
-Run the GUI:
+- Run the GUI:
 
-double-click:
-run_app.bat
+- double-click:
+- run_app.bat
 
 
-Select Excel file
-Click Process Excel
-Select node
-Click Plot
+- Select Excel file
+- Click Process Excel
+- Select node
+- Click Plot
 
 ## Notes
 
-Pins without data will be shown as N/A
-Excel files with format issues may need to be re-saved before use
+- Pins without data will be shown as N/A
+- Excel files with format issues may need to be re-saved before use
 
 ## Author
 Eason.HS Liu
