@@ -4,21 +4,14 @@
 This tool provides a GUI to process latchup Excel data and generate IV plots with pin-based color mapping and stage-based markers.
 
 ## How to Use
-1. Download and unzip `LU_Trend_Tool.zip`
-2. Open a terminal in the unzipped project root
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   
-Run the GUI:
 
-double-click:
-run_app.bat
-
-- Select Excel file
-- Click Process Excel
-- Select node
-- Click Plot
+1. Go to the **Releases** page
+2. Open the latest release: **Latchup Analysis Tool v1.0**
+3. Download **Latchup_Analysis_Tool.zip** from the **Assets** section
+4. Extract the zip file
+5. Open the extracted folder
+6. Double-click **app_gui.exe**
+7. Select Excel → Process Excel → Plot
 
 ## Notes
 - Pins without data will be shown as N/A
